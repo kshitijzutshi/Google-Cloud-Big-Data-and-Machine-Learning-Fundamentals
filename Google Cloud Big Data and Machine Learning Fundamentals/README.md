@@ -27,3 +27,5 @@ Pricing: https://cloud.google.com/pricing/
 This module is on performing **product recommendations using Cloud SQL and Apache Spark**. 
 
 We'll cover product recommendations, which is probably the most common machine learning problem employed by businesses. Along the way, we'll also get to look at two **Google Cloud products; Cloud SQL, which is a managed relational database, and Cloud Dataproc, which is a managed environment on which you can run Apache Spark.** 
+
+![image](https://user-images.githubusercontent.com/13203059/153769097-8fd5acbc-cf8d-4f7c-a9f3-c72cf3c29d7e.png)
